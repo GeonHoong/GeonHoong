@@ -53,8 +53,8 @@
 
 ## Experience
 
-### 1/10 자율주행 레이스카 — 팀장 · 하드웨어 및 소프트웨어 총괄
-`2026.01 – 2026.03` · 제5회 국제 대학생 EV 자율주행 경진대회 (1/10 Autonomous Mobility Racing) · **최우수상**
+### 제5회 국제 대학생 EV 자율주행 경진대회 (1/10 Autonomous Mobility Racing) — 팀장 · 하드웨어 및 소프트웨어 총괄
+`2026.01 – 2026.03` **최우수상**
 [저장소 보기 →](https://github.com/GeonHoong/1_10-autonomous-race)
 
 - 하드웨어(섀시 설계·제작)부터 MUX 통합 제어, micro-ROS 기반 모터 제어 아키텍처, LiDAR Lookahead/ROI 가변 제어까지 하드웨어·소프트웨어 전 구간 설계
