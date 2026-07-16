@@ -54,7 +54,7 @@
 ## Experience
 
 ### 제5회 국제 대학생 EV 자율주행 경진대회 (1/10 Autonomous Mobility Racing) - 팀장 · 하드웨어 및 소프트웨어 총괄
-`2026.01 – 2026.03` 여러 대의 차량이 동시에 출발해 앞 차량을 안전하게 차선 변경으로 피하며 지정된 바퀴 수를 먼저 완주
+`2026.01 – 2026.03` · 차선 인식·LiDAR 인지·Pure Pursuit 통합 자율주행 (동시 출발 차선변경 레이스)
 [저장소 보기 →](https://github.com/GeonHoong/1_10-autonomous-race)
 
 - 하드웨어(섀시 설계·제작)부터 MUX 통합 제어, micro-ROS 기반 모터 제어 아키텍처, LiDAR Lookahead/ROI 가변 제어까지 하드웨어·소프트웨어 전 구간 설계
