@@ -42,7 +42,7 @@
 
 | 프로젝트 | 기간 | 소개 | 담당 |
 |---|---|---|---|
-| [1/10 자율주행 레이스카](https://github.com/GeonHoong/1_10-autonomous-race) | _YYYY.MM – 2026.02_ | ROS 2 기반 차선 인식·LiDAR 인지·Pure Pursuit 제어 통합 자율주행 스택 | 하드웨어 설계, MUX 통합 제어, micro-ROS 모터 제어, LiDAR Lookahead/ROI 가변 제어 |
+| [1/10 자율주행 레이스카](https://github.com/GeonHoong/1_10-autonomous-race) | _2026.01 – 2026.03_ | ROS 2 기반 차선 인식·LiDAR 인지·Pure Pursuit 제어 통합 자율주행 | 하드웨어 설계, MUX 통합 제어, micro-ROS 모터 제어, LiDAR Lookahead/ROI 가변 제어 |
 | _다음 프로젝트_ | _YYYY.MM – YYYY.MM_ | _추가 예정_ | _추가 예정_ |
 
 ---
