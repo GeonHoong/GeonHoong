@@ -53,6 +53,15 @@
 
 ## Experience
 
+### 2025 HL FMA aMAP Innovator Championship [1/5]
+`2025.06 – 2025.09` · GPS·LiDAR·카메라 융합 자율주행 (실제 운전면허 시험장 코스)
+[저장소 보기 →](https://github.com/GeonHoong/1-5-autonomous)
+
+- 유아용 전동차 기반 하드웨어 전체 설계·제작, OpenCR 서브컨트롤러 기반 모터/센서 제어, LiDAR ROI 운용 담당
+- **결과**: 완주는 하지 못했으나, 이때 익힌 ROS·자율주행 소프트웨어 경험이 이후 1/10 프로젝트 최우수상의 밑거름이 됨
+
+<br/>
+
 ### 1/10 자율주행 레이스카 — 팀장 · 하드웨어 및 소프트웨어 총괄
 `2026.01 – 2026.03` · 제5회 국제 대학생 EV 자율주행 경진대회 (1/10 Autonomous Mobility Racing) · **최우수상**
 [저장소 보기 →](https://github.com/GeonHoong/1_10-autonomous-race)
