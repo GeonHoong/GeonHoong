@@ -53,7 +53,7 @@
 
 ## Experience
 
-### 제5회 국제 대학생 EV 자율주행 경진대회 (1/10 Autonomous Mobility Racing) — 팀장 · 하드웨어 및 소프트웨어 총괄
+### 제5회 국제 대학생 EV 자율주행 경진대회 (1/10 Autonomous Mobility Racing) - 팀장 · 하드웨어 및 소프트웨어 총괄
 `2026.01 – 2026.03` **최우수상**
 [저장소 보기 →](https://github.com/GeonHoong/1_10-autonomous-race)
 
@@ -62,7 +62,7 @@
 
 <br/>
 
-### 2025 HL FMA aMAP Innovator Championship [1/5]
+### 2025 HL FMA aMAP Innovator Championship [1/5] - 팀원 · 하드웨어 총괄
 `2025.06 – 2025.09` · GPS·LiDAR·카메라 융합 자율주행 (실제 운전면허 시험장 코스)
 [저장소 보기 →](https://github.com/GeonHoong/1-5-autonomous)
 
