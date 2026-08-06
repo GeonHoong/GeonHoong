@@ -57,12 +57,14 @@
 ## Experience
 
 ### 2026 BTS(Brain to Society) 실전문제연구팀
-`2026.05 – 2026.12` · 조선소 현장 작업자 보조를 위한 소프트 로봇 장갑 개발 Development of a Wearable Soft Robotic Glove for Shipyard Workers
+`2026.05 – 2026.12` · 조선소 현장 작업자 보조를 위한 소프트 로봇 장갑 개발 (Development of a Wearable Soft Robotic Glove for Shipyard Workers)
 
 <br/>
 
 ### 대한기계학회 울산지회 2026년 춘계학술대회 발표
-`2026.05` · _내용 추가 예정_
+`2026.05` · 선박 온데크 구역 케이블 포설 작업 보조를 위한 착용형 로봇 설계 (Design of a Wearable Robot for Assisting Cable Installation Tasks in the On-Deck Area of Ships)
+
+
 
 <br/>
 
