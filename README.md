@@ -5,7 +5,7 @@
 
 <div align="center">
 
-# 김건홍 (Kim Geonhoong)
+# 김건홍 (Kim Geonhong)
 
 ### Hardware & Embedded Systems Engineer
 
