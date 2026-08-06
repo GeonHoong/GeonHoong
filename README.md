@@ -61,19 +61,17 @@
 
 <br/>
 
-### 대한기계학회 울산지회 2026년 춘계학술대회 포스터 세션 발표
-`2026.05` · 선박 온데크 구역 케이블 포설 작업 보조를 위한 착용형 로봇 설계 (Design of a Wearable Robot for Assisting Cable Installation Tasks in the On-Deck Area of Ships)
-
-
-
-<br/>
-
 ### 제5회 국제 대학생 EV 자율주행 경진대회 (1/10 Autonomous Mobility Racing) - 팀장 · 하드웨어 및 소프트웨어 총괄
 `2026.01 – 2026.03` · 차선 인식·LiDAR 인지·Pure Pursuit 통합 자율주행 (동시 출발 차선변경 레이스)
 [저장소 보기 →](https://github.com/GeonHoong/1_10-autonomous-race)
 
 - 하드웨어(섀시 설계·제작)부터 MUX 통합 제어, micro-ROS 기반 모터 제어 아키텍처, LiDAR Lookahead/ROI 가변 제어까지 하드웨어·소프트웨어 전 구간 설계
 - **결과**: 대회 최우수상 수상 (자세한 내용은 저장소 참고)
+
+<br/>
+
+### 선박 온데크 구역 케이블 포설 작업 보조를 위한 착용형 로봇 설계
+`2025.12 – ` · 대한기계학회 울산지회 2026년 춘계학술대회 포스터 세션 발표
 
 <br/>
 
