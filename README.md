@@ -7,10 +7,10 @@
 
 # 김건홍 (Kim Geonhong)
 
-### Hardware & Embedded Systems Engineer
+### Wearable Robotics & Control Engineer
 
-하드웨어 설계부터 임베디드 실시간 제어, ROS 2 기반 자율주행 소프트웨어까지 — 시스템 전 구간을 아우르는 엔지니어입니다.
-센서 데이터를 안전하고 정확한 액추에이터 명령으로 연결하는 제어 아키텍처 설계를 중심으로 작업합니다.
+착용형 로봇(웨어러블 로봇) 설계를 중심으로, 임베디드 실시간 제어와 ROS 2 기반 로보틱스 소프트웨어까지 아우르는 엔지니어입니다.
+센서 데이터를 안전하고 정확한 액추에이터 명령으로 연결하는 제어 시스템 설계를 중심으로 작업합니다.
 
 [![Email](https://img.shields.io/badge/Email-<your_email>-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:<your_email>)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-<your_handle>-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/<your_handle>)
@@ -28,8 +28,6 @@
 | 울산대학교 휴먼로보틱스 랩실 | 학부연구생 | 2025.12 – 현재 |
 | 2026 BTS(Brain to Society) 실전문제연구팀 | - | 2026.05 – 2026.12 |
 | InnoCORE (유니스트 · 울산대학교) | 연구인턴 | 2026.06 – 2026.09 |
-
-<sub>* BTS(Brain to Society): 산업현장 및 지역 사회의 실제 문제를 학생이 자기 주도적으로 발굴·해결하는 학생 주도형 현장 중심 교육 프로그램</sub>
 
 ---
 
@@ -58,6 +56,8 @@
 
 ### 2026 BTS(Brain to Society) 실전문제연구팀
 `2026.05 – 2026.12` · 조선소 현장 작업자 보조를 위한 소프트 로봇 장갑 개발 (Development of a Wearable Soft Robotic Glove for Shipyard Workers)
+
+- BTS(Brain to Society): 산업현장 및 지역 사회의 실제 문제를 학생이 자기 주도적으로 발굴·해결하는 학생 주도형 현장 중심 교육 프로그램
 
 <br/>
 
