@@ -57,7 +57,7 @@
 ## Experience
 
 ### 2026 BTS(Brain to Society) 실전문제연구팀
-`2026.05 – 2026.12`
+`2026.05 – 2026.12` · 조선소 현장 작업자 보조를 위한 소프트 로봇 장갑 개발 Development of a Wearable Soft Robotic Glove for Shipyard Workers
 
 <br/>
 
