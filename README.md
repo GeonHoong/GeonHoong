@@ -61,7 +61,7 @@
 
 <br/>
 
-### 대한기계학회 울산지회 2026년 춘계학술대회 발표
+### 대한기계학회 울산지회 2026년 춘계학술대회 포스터 세션 발표
 `2026.05` · 선박 온데크 구역 케이블 포설 작업 보조를 위한 착용형 로봇 설계 (Design of a Wearable Robot for Assisting Cable Installation Tasks in the On-Deck Area of Ships)
 
 
